@@ -1,0 +1,321 @@
+
+.inscription #heading {
+    text-transform: uppercase;
+    color: #206c45;
+    font-weight: normal
+}
+
+.inscription #msforme {
+    text-align: center;
+    position: relative;
+    margin-top: 20px
+}
+
+.inscription #msforme fieldset {
+    background: white;
+    border: 0 none;
+    border-radius: 0.5rem;
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    padding-bottom: 40px;
+    position: relative
+}
+
+.inscription .form-card {
+    text-align: left
+}
+
+.inscription #msforme fieldset:not(:first-of-type) {
+    display: none
+}
+
+
+.inscription #msforme .action-button {
+    width: 125px;
+    background: #206c45;
+    font-weight: bold;
+    color: white;
+    border: 0 none;
+    cursor: pointer;
+    padding: 10px 10px;
+    margin: 30px 0px 10px 5px;
+    float: right;
+    height:45px;
+    border-radius:5px;
+}
+
+.inscription #msforme .action-button:hover,
+.inscription #msforme .action-button:focus {
+    background-color: #206c45
+}
+
+.inscription #msforme .action-button-previous {
+    width: 125px;
+    background: #616161;
+    font-weight: bold;
+    color: white;
+    border: 0 none;
+    cursor: pointer;
+    padding: 10px 10px;
+    margin: 30px 5px 10px 0px;
+    float: right;
+    height:45px;
+    border-radius:5px;
+
+}
+
+.inscription #msforme .action-button-previous:hover,
+.inscription #msforme .action-button-previous:focus {
+    background-color: #000000
+}
+
+.inscription .card {
+    z-index: 0;
+    border: none;
+    position: relative
+}
+
+.inscription .fs-title {
+    font-size: 25px;
+    color: #206c45;
+    margin-bottom: 15px;
+    font-weight: normal;
+}
+
+.inscription .purple-text {
+    color: #206c45;
+    font-weight: normal
+}
+
+.inscription .steps {
+    font-size: 25px;
+    color: gray;
+    margin-bottom: 10px;
+    font-weight: normal;
+    text-align: right
+}
+
+
+
+.inscription #progressbar {
+    margin-bottom: 30px;
+    overflow: hidden;
+    color: lightgrey
+}
+
+.inscription #progressbar .active {
+    color: #206c45
+}
+
+.inscription #progressbar li {
+    list-style-type: none;
+    font-size: 15px;
+    width: 25%;
+    float: left;
+    position: relative;
+    font-weight: 400
+}
+
+.inscription #progressbar #account:before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f007";
+}
+
+.inscription #progressbar #personal:before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f";
+}
+
+.inscription #progressbar #payment:before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f058";
+}
+
+.inscription #progressbar #confirm:before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f06e";
+}
+
+
+
+.inscription #progressbar li:before {
+    width: 50px;
+    height: 50px;
+    line-height: 45px;
+    display: block;
+    font-size: 20px;
+    color: #ffffff;
+    background: lightgray;
+    border-radius: 50%;
+    margin: 0 auto 10px auto;
+    padding: 2px
+}
+
+.inscription #progressbar li:after {
+    content: '';
+    width: 100%;
+    height: 2px;
+    background: lightgray;
+    position: absolute;
+    left: 0;
+    top: 25px;
+    z-index: -1
+}
+
+.inscription #progressbar li.active:before,
+.inscription #progressbar li.active:after {
+    background: #206c45
+}
+
+.inscription .progress {
+    height: 20px
+}
+
+.inscription .progress-bar {
+    background-color: #206c45
+}
+
+.inscription .fit-image {
+    width: 100%;
+    object-fit: cover
+}
+
+.checkbox-list{
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+.checkbox{
+    border-bottom: 1px dashed rgba(255,255,255,0.5);
+    padding: 6px 5px 28px 27px;;
+    margin: 0;
+    display: block;
+    border-left:1px solid #dee2e6 !important;
+    border-right:1px solid #dee2e6 !important;
+    background-color: #245760;
+}
+.checkbox input[type=checkbox]{
+    margin: 0;
+    visibility: hidden;
+    left: 1px;
+    top: 1px;
+}
+.checkbox label{
+    font-size: 16px;
+    line-height: 26px;
+    padding-left: 35px;
+    margin: 0;
+    display: block;
+    cursor: pointer;
+    position: relative;
+    transition: all 0.3s ease 0s;
+}
+.checkbox label:before,
+.checkbox label:after{
+    content: "";
+    width: 20px;
+    height: 20px;
+    border: 3px solid rgba(255,255,255,0.5);
+    border-radius: 4px;
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    transition: all 0.25s;
+}
+.checkbox label:after{
+    height: 10px;
+    width: 16px;
+    border-radius: 0 0 0 4px;
+    border: 5px solid #fff;
+    border-top: none;
+    border-right: none;
+    opacity: 0;
+    transform: rotate(-45deg);
+    top: 15px;
+    left: 6px;
+}
+.checkbox input[type=checkbox]:checked+label{ font-weight: 600; }
+.checkbox input[type=checkbox]:checked+label:before{
+    opacity: 0;
+    top: -10px;
+}
+.checkbox input[type=checkbox]:checked+label:after{
+    opacity: 1;
+    top: 6px;
+}
+@media only screen and (max-width:767px){
+    .checkbox{ margin: 0 0 20px; }
+}
+
+a:hover,a:focus{
+    text-decoration: none;
+    outline: none;
+}
+#accordion .panel{
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    margin: 0 30px 5px;
+    position: relative;
+}
+#accordion .panel:before,
+#accordion .panel:after{
+    content: "";
+    border-left: 25px solid #fff;
+    border-top: 25px solid transparent;
+    border-bottom: 25px solid transparent;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+#accordion .panel:after{
+    border-left: none;
+    border-right: 25px solid #fff;
+    left: auto;
+    right: 0;
+}
+#accordion .panel-heading{
+    padding: 0;
+    position: relative;
+}
+#accordion .panel-title a{
+    display: block;
+    padding: 15px 60px 15px 40px;
+    background: #206c45;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #fff;
+    position: relative;
+}
+#accordion .panel-title a:before,
+#accordion .panel-title a.collapsed:before{
+    content: "\f107";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-size: 20px;
+    color: #fff;
+    position: absolute;
+    top: 15px;
+    transition: all 0.3s ease 0s;
+}
+#accordion .panel-title a.collapsed:before{
+    content: "\f106";
+    top: 12px;
+}
+#accordion .panel-body{
+    padding: 10px 30px 0;
+    border-top: none;
+    font-size: 15px;
+    color: #5c4f4f;
+    line-height: 28px;
+    letter-spacing: 0.5px;
+}
+
+.input-group-text{
+    background-color: #206c45 !important;
+    color: white !important;
+}

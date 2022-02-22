@@ -1,0 +1,25 @@
+.modal-backdrop.fade.show {
+    z-index: auto !important;
+}
+
+
+div#myModal {
+    margin-top: 5% !important;
+}
+
+#dossiertable td.dataTables_empty
+{
+    display: none !important;
+}
+
+#dossierbd i{
+    font-size: 30px !important;
+}
+
+#dossierbd i.fa-file-pdf{
+    color:red !important;
+}
+
+#dossierbd i.fa-file-word{
+    color:deepskyblue !important;
+}

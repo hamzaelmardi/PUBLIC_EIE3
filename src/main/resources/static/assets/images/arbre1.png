@@ -1,0 +1,1196 @@
+ 
+<!DOCTYPE HTML>
+<html lang="fr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Charte Environnement, vers une démarche éco-citoyenne</title>
+
+<!-- meta -->
+<meta name="description" content="Depuis plus de 40 ans, PROTEM développe les moyens lui permettant de réduire l’impact de ses actions et de ses produits sur l’environnement."/>
+<meta name="keywords" content="" />
+<meta name="robots" content="index,follow" />
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="format-detection" content="telephone=no"/>
+
+<!-- RSS -->
+	<link title="Flux RSS de Protem" rel="alternate" type="application/rss+xml" href="https://www.protem.fr/rss.php?site=11" />
+	<link title="Protem RSS feed" rel="alternate" type="application/rss+xml" href="https://www.protem.fr/rss.php?site=12" />
+	<link title="Protem RSS feed" rel="alternate" type="application/rss+xml" href="https://www.protem.fr/rss.php?site=13" />
+	<link title="Flujo RSS Protem" rel="alternate" type="application/rss+xml" href="https://www.protem.fr/rss.php?site=14" />
+	<link title="Protem RSS feed" rel="alternate" type="application/rss+xml" href="https://www.protem.fr/rss.php?site=16" />
+	<link title="PROTEM RSS源" rel="alternate" type="application/rss+xml" href="https://www.protem.fr/rss.php?site=17" />
+	<link title="Kanał RSS" rel="alternate" type="application/rss+xml" href="https://www.protem.fr/rss.php?site=18" />
+
+<!-- favicon -->
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.protem.fr/favicon_protem/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.protem.fr/favicon_protem/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.protem.fr/favicon_protem/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.protem.fr/favicon_protem/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.protem.fr/favicon_protem/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.protem.fr/favicon_protem/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.protem.fr/favicon_protem/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.protem.fr/favicon_protem/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.protem.fr/favicon_protem/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="https://www.protem.fr/favicon_protem/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://www.protem.fr/favicon_protem/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="https://www.protem.fr/favicon_protem/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://www.protem.fr/favicon_protem/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="https://www.protem.fr/favicon_protem/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="https://www.protem.fr/favicon_protem/manifest.json">
+<link rel="shortcut icon" href="https://www.protem.fr/favicon_protem/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="https://www.protem.fr/favicon_protem/mstile-144x144.png">
+<meta name="msapplication-config" content="https://www.protem.fr/favicon_protem/browserconfig.xml">
+<meta name="theme-color" content="#d80100">
+
+<!-- stylesheet -->
+<!-- WEBFONTS -->
+
+<link rel="stylesheet" href="https://www.protem.fr/frontoffice/ressources_protem/css/plugins/font-awesome.css" media="all">
+<link rel="stylesheet" href="https://www.protem.fr/frontoffice/ressources_protem/css/plugins/icomoon.css" media="all">
+
+<link href='https://fonts.googleapis.com/css?family=Anton' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300,300italic,600,600italic,700,700italic,800' rel='stylesheet' type='text/css'>
+
+<!-- PLUGINS -->
+
+<link rel="stylesheet" href="https://www.protem.fr/frontoffice/ressources_protem/css/plugins/animate.css" media="screen">
+<link rel="stylesheet" href="https://www.protem.fr/frontoffice/ressources_protem/scripts/fancybox/jquery.fancybox.css" media="screen">
+<link rel="stylesheet" href="https://www.protem.fr/frontoffice/ressources_protem/css/plugins/jquery.powertip.css" media="screen">
+<link rel="stylesheet" href="https://www.protem.fr/frontoffice/ressources_protem/scripts/jquery-typeahead-2.3.2/dist/jquery.typeahead.min.css" media="screen">
+<link rel="stylesheet" href="https://www.protem.fr/frontoffice/ressources_protem/scripts/jquery-toast-plugin-master/dist/jquery.toast.min.css" media="screen">
+<link rel="stylesheet" href="https://www.protem.fr/frontoffice/ressources_protem/css/plugins/ion.rangeSlider.css" media="screen">
+<link rel="stylesheet" href="https://www.protem.fr/frontoffice/ressources_protem/css/plugins/ion.rangeSlider.skinModern.css" media="screen">
+<!-- <link rel="stylesheet" href="https://www.protem.fr/frontoffice/ressources_protem/css/plugins/jquery.mb.YTPlayer.min.css" media="screen"> -->
+
+
+
+
+
+<!-- FEUILLES DE STYLE MAISON -->
+<link rel="stylesheet" href="https://www.protem.fr/frontoffice/ressources_protem/css/main.css" media="screen">
+<link rel="stylesheet" href="https://www.protem.fr/stylePannelMenuProtem.php" media="screen">
+<!-- scripts -->
+<!--[if lt IE 9]>
+	<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!-- jQuery -->
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/jquery-1.11.2.min.js"></script>
+
+<!-- Polyfills -->
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/selectivizr-min.js"></script>
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/flexibility.js"></script>
+
+<!-- Plugins -->
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/jquery.cookie.js"></script>
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/jquery.slideshow.6tematik.min.js"></script>
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/fancybox/jquery.fancybox.js"></script>
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/jquery.powertip.min.js"></script>
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/jquery.form.min.js"></script>
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/jquery.base64.js"></script>
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/jquery-typeahead-2.3.2/dist/jquery.typeahead.min.js"></script>
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/jquery.mCustomScrollbar.concat.min.js"></script>
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/jquery-toast-plugin-master/dist/jquery.toast.min.js"></script>
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/ion.rangeSlider.min.js"></script>
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/jquery.mb.YTPlayer.js"></script>
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/slick.min.js"></script>
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/popupTelechargementDocument.js"></script>
+
+<!-- Scripts maison -->
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/recherche.guidee.js"></script>
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/recherche.reference.js"></script>
+<script type="text/javascript">
+	var baseHref = 'https://www.protem.fr/';
+	var idSite = '11';
+	var racine = 'https://www.protem.fr/';
+	var messageErreur = "Le format du mail n'est pas valide";
+	var ErreurGeneral = "Une erreur est survenue";
+	var urlPanier = 'https://www.protem.fr/panier';
+	var titreSucces = 'Félicitations';
+	var titreEchec = 'Echec';
+	var nomLienPanier = 'Aller au panier';
+	var messageAjoutPanier = 'Le produit a bien été ajouté à votre panier.';
+
+	//récupération des traductions pour la recherche guidées
+	var libelleReference = 'références';
+	var libelleAucuneReference = 'aucune référence';
+	var libelleReferencesTrouvees = 'Références trouvées';
+
+	//erreur captcha
+	var dicoErreurCaptcha = "Le code de vérification n'est pas valide...";
+
+</script>
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/panier.js"></script>
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/inscriptionNewsletter.js"></script>
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources_protem/scripts/effets.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-78517637-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!--[if lte IE 8]>
+	<script type="text/javascript" src="scripts/ie8.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="http://www.zcbmn14.com/js/98928.js" ></script>
+<noscript><img alt="" src="http://www.zcbmn14.com/98928.png" style="display:none;" /></noscript>
+<link rel="stylesheet" href="https://www.protem.fr/frontoffice/ressources_protem/css/plugins/slick.css" type="text/css" media="screen" />
+</head>
+
+
+<body class="protemfr">
+
+	
+
+			<!-- KIECOO -->
+		<!-- MESSAGE OBLIGATOIRE COOKIES -->
+		<div class="cookies">
+			Ce site internet utilise des cookies. En poursuivant votre navigation, vous acceptez l’utilisation de cookies. Attention, le blocage de certains cookies empêche le fonctionnement correct du site.			<span class="cookies-close"></span>
+		</div>
+	
+	<!-- MESSAGE IE6-->
+	
+	<div class="panneauProduits">
+	<div class="panneauProduits-wrap">
+
+		<button class="panneauProduits-close"><i class="icon-close"></i></button>
+
+		
+			<ul class="panneauProduits-onglets tabs">
+									<li class="active"><a href="#" data-tab="panel-1">Par type d'application</a></li>
+											    	<li><a href="#" data-tab="panel-2">Par type d'industrie</a></li>
+											    <li><a href="#" data-tab="panel-3">Par gamme de produits</a></li>
+							</ul>
+
+							<div class="panneauProduits-interne listeTypes ouvert listeSousCat" data-tab-content="panel-1">
+					<ul><li class="Coupe-orbitale"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/tubes-inox-fin" title="">TUBES INOX FINS</a>
+</li>
+<li class="usinage-tubes-et-pipelines"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/usinage-de-tubes-et-pipelines" title="Machines portables d'usinage de tubes et pipelines">Usinage de tubes et pipelines</a>
+<ul>
+<li class="chanfreiner"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/usinage-de-tubes-et-pipelines/chanfreiner" title="Machines portables de chanfreinage de tubes et pipelines">Chanfreiner - PROTEM</a>
+</li>
+<li class="couper"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/usinage-de-tubes-et-pipelines/couper" title="Machines portables de coupe de tubes et pipelines">Couper</a>
+</li>
+<li class="dresser"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/usinage-de-tubes-et-pipelines/dresser" title="Machines portables de dressage de tubes et pipelines | PROTEM">Dresser</a>
+</li>
+<li class="delarder"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/usinage-de-tubes-et-pipelines/delarder" title="Machines portables de délardage de tubes et pipelines">D&eacute;larder</a>
+</li>
+<li class="detuber"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/usinage-de-tubes-et-pipelines/detuber" title="Machines portables de détubage de tubes et pipelines">D&eacute;tuber</a>
+</li>
+</ul>
+</li>
+<li class="SOUDAGE"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/soudure" title="Soudage">Soudage</a>
+<ul>
+<li class="Soudage orbital tube/tube"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/soudure/soudage-orbital-tube-tube" title="Soudage orbital tube / tube">Soudage orbital tube/tube</a>
+</li>
+<li class="Soudage orbital tube/plaque"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/soudure/soudage-orbital-tube-plaque" title="Soudage orbital tube / plaque">Soudage orbital tube/plaque</a>
+</li>
+</ul>
+</li>
+<li class="usinage-de-brides-et-vannes"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/usinage-de-brides-et-vannes" title="Machines portables d'usinage de brides et vannes">Usinage de brides et vannes</a>
+<ul>
+<li class="surfacer-et-aleser"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/usinage-de-brides-et-vannes/surfacer-et-aleser" title="Machines portables de surfaçage et d'alésage de brides et vannes">Surfacer &amp; Al&eacute;ser</a>
+</li>
+<li class="surfacer"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/usinage-de-brides-et-vannes/surfacer" title="Machines portables de surfaçage de brides et vannes">Surfacer</a>
+</li>
+<li class="aleser"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/usinage-de-brides-et-vannes/aleser" title="Machines portables d'alésage de brides et vannes">Al&eacute;ser</a>
+</li>
+<li class="tarauder"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/usinage-de-brides-et-vannes/tarauder" title="Machines portables de taraudage de brides et vannes">Tarauder</a>
+</li>
+<li class="rectifier"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/usinage-de-brides-et-vannes/rectifier" title="Machines portables de rectification de brides et vannes">Rectifier</a>
+</li>
+<li class="usinage-conique"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/usinage-de-brides-et-vannes/usinage-conique" title="Machines portables d'usinage conique de brides et vannes">Usinage conique</a>
+</li>
+</ul>
+</li>
+<li class="outils"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/outils-et-accessoires" title="Outils et accessoires pour l'usinage de tubes et pipelines">Outils et accessoires</a>
+<ul>
+<li ><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/outils-et-accessoires/groupes-hydrauliques" title="">Groupes Hydrauliques</a>
+</li>
+<li ><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/outils-et-accessoires/systeme-de-lubrification" title="Système de lubrification pour prolonger la durée de vie de vos outils">Syst&egrave;mes de Lubrification</a>
+</li>
+<li ><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/outils-et-accessoires/accessoires" title="Les accessoires PROTEM indispensables pour vos travaux d'usinage">Accessoires</a>
+</li>
+<li class="outils"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/outils-et-accessoires/outils-et-plaquettes" title="Outils & plaquettes pour toutes vos opérations d'usinage">Outils &amp; plaquettes</a>
+</li>
+</ul>
+</li>
+</ul>				</div>
+			
+							<div class="panneauProduits-interne listeTypes listeSousCat" data-tab-content="panel-2">
+					<ul><li class="industrie-nucleaire"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/nucleaire" title="Nucléaire, usinage et soudage en milieux contraignants">Nucl&eacute;aire</a>
+<ul>
+<li ><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/nucleaire/construction" title="">Construction</a>
+</li>
+<li ><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/nucleaire/maintenance" title="">Maintenance</a>
+</li>
+<li ><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/nucleaire/copie-de-maintenance" title="Démantèlement nucléaire - PROTEM">D&eacute;mant&egrave;lement nucl&eacute;aire</a>
+</li>
+<li ><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/nucleaire/traitement-de-dechets" title="">Traitement de d&eacute;chets</a>
+</li>
+</ul>
+</li>
+<li class="industrie-fossiles"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/fossiles" title="Fossiles, assurer une intervention rapide et efficace">Fossiles</a></li><li class="industrie-hydroelectrique"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/hydroelectriques" title="Hydroélectriques, usinage pour maintenance et construction">Hydro&eacute;lectriques</a></li><li class="energies-renouvelables"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/energies-renouvelables" title="Énergies renouvelables, usiner en espace réduit efficacement">&Eacute;nergies renouvelables</a></li><li class="petrole-gaz"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/petrole-et-gaz" title="Pétrole & gaz, usinage de joints, brides et vannes">P&eacute;trole &amp; gaz</a></li><li class="industrie-defense"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/defense" title="Défense, usiner avec précision et répétabilité tous matériaux">D&eacute;fense</a></li><li class="industrie-chimie"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/chimie" title="Chimie, assurer un usinage à froid sans étincelle ni ZAT">Chimie</a></li><li class="industrie-semi-conducteur"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/semi-conducteur" title="Semi-conducteur, machines orbitales de coupe et chanfreinage">Semi-conducteur</a></li><li class="industrie-pharmacie"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/pharmacie" title="Pharmacie, assurer un usinage sans contamination ni bavure">Pharmacie</a></li><li class="industrie-agroalimentaire"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/agroalimentaire" title="Agroalimentaire, assurer un usinage sans contamination">Agroalimentaire</a></li><li class="industrie-biotechnologies"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/biotechnologies" title="Biotechnologies, assurer un usinage sans contamination">Biotechnologies</a></li><li class="industrie-construction-navale"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/construction-navale" title="Construction navale, Réparation sur site de pièces critiques">Construction navale</a></li><li class="industrie-aerospace"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/aerospatiale-et-aeronautique" title="Aérospatiale & aéronautique, usinage en accès difficile">A&eacute;rospatiale &amp; a&eacute;ronautique</a></li><li class="industrie-tubes"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/tubes-brides-vannes-coudes-et-toles" title="Tubes, brides, vannes, coudes & tôles, toutes dimensions">Tubes, brides, vannes, coudes &amp; t&ocirc;les</a></li><li class="industrie-chaudiere"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/chaudieres" title="Chaudières, usinage auto et semi auto en grande série">Chaudi&egrave;res</a></li><li class="industrie-echangeurs-de-chaleur"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/echangeurs-de-chaleur" title="Échangeurs de chaleur, usinage avec grande répétabilité">&Eacute;changeurs de chaleur</a></li><li class="industrie-tuyauterie"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/tuyauterie" title="Tuyauterie, préparation à toute procédure de soudage">Tuyauterie</a></li><li class="industrie-cryogenie"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/cryogenie" title="Cryogénie, maintenance de lignes de tuyauteries à de basses  températures">Cryog&eacute;nie</a></li></ul>				</div>
+			
+							<div class="panneauProduits-interne listeTypes" data-tab-content="panel-3">
+					<ul><li class="Coupe-orbitale"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-coupe-orbitale" title="">Gamme coupe orbitale</a>
+</li>
+<li class="us-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-us" title="">Gamme US</a>
+</li>
+<li class="tt-ng-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-tt" title="Gamme TT-NG - Coupe et chanfreinage orbital de tubes">Gamme TT-NG</a>
+</li>
+<li class="tt-lw-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-tt-lw" title="Gamme TT-LW - Coupe et chanfreinage orbital de tubes">Gamme TT-LW</a>
+</li>
+<li class="tts-ng-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-tts-ng" title="Gamme TTS-NG  - Coupe et chanfreinage orbital de tubes">Gamme TTS-NG</a>
+</li>
+<li class="tts-rd-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-tts-rd" title="Gamme TTS-RD - Machine de coupe et de chanfreinage de tubes">Gamme TTS-RD</a>
+</li>
+<li class="pfm-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-pfm" title="Gamme PFM - Machines à chanfreiner à grande vitesse">Gamme PFM</a>
+</li>
+<li class="us-600r-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/us600r" title="Gamme US600R - Usinage de tubes de très fortes épaisseurs">Gamme US600R</a>
+</li>
+<li class="ohsb-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-ohsb" title="Gamme OHSB - Équipements pour réaliser le dressage de tubes">Gamme OHSB</a>
+</li>
+<li class="se-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-se" title="Gamme SE - Machines à dresser les tubes, raccords, coudes…">Gamme SE</a>
+</li>
+<li class="sl-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-sl" title="Gamme SL - Dressage de tubes, raccords et T en acier inoxydable">Gamme SL</a>
+</li>
+<li class="se-ng-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/se-ng-series" title="Gamme SE-NG - Machines portables d'usinage de tubes">Gamme SE-NG</a>
+</li>
+<li class="bmfm-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-bmfm" title="Gamme BMFM - Machines à clampage concentrique pour la préparation au soudage">Gamme BMFM</a>
+</li>
+<li class="gr-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-gr" title="Gamme GR - Équipements d'usinage pour tubes et parois de panneaux">Gamme GR</a>
+</li>
+<li class="mf-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-mf" title="Gamme MF - Machines transportables à couper et à chanfreiner les tubes">Gamme MF</a>
+</li>
+<li class="tno-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-tno" title="Gamme TNO - Machines à couper et à chanfreiner grande capacité">Gamme TNO</a>
+</li>
+<li class="bb-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-bb" title="Gamme BB - Chanfreinage de tubes à très grande vitesse">Gamme BB</a>
+</li>
+<li class="cta-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-cta" title="Gamme CTA - Machines à couper et à chanfreiner automatiques">Gamme CTA</a>
+</li>
+<li class="ocm-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-ocm" title="Gamme OCM">Gamme OCM</a>
+</li>
+</ul>				</div>
+			
+		
+	</div>
+</div>	<div class="rechercheGuidee">
+	<!-- Bouton de fermeture de la recherche guidée -->
+	<button class="rechercheGuidee-close"></button>
+
+	<div class="rechercheGuidee-scroll">
+
+		<div class="rechercheGuidee-wrap">
+
+			<!-- Formulaire HTML -->
+			<form class="rechercheGuidee-interne" id="formulaireguide" method="post" action="https://www.protem.fr/produits/?action=resultats">
+
+				<!-- Entête fixe -->
+				<header class="rechercheGuidee-header">
+					<h2 class="titre2 color-bleu">Recherche guidée</h2>
+					<span class="sousTitre color-gris">Recherchez un produit dont vous connaissez la référence</span>
+				</header>
+
+
+				<!-- Contient nos étapes de la recherche guidée -->
+				<div class="rechercheGuidee-content">
+
+					<!-- Pagination -->
+					<ul class="rechercheGuidee-pagination">
+						<li class="active"></li>
+						<li class="inactive"></li>
+						<li class="inactive"></li>
+						<li class="inactive"></li>
+						<li class="inactive"></li>
+						<li class="inactive"></li>
+						<li class="inactive"></li>
+						<li class="inactive"></li>
+					</ul>
+
+					<!-- /TEST CHECKBOXES -->
+
+					<div class="rechercheGuidee-etape clearAfter active">
+						<input type="hidden" class="hiddenetape" name="etape1" value="active">
+						<h3 class="titre3 color-gris-dark">Quel type de pièce souhaitez-vous usiner ?</h3>
+						<div class="rechercheGuidee-choix">
+							<ul>
+																	<li class="chargementajax">
+										<input type="checkbox" id="flanges" name="critere_etape1[]" value="flanges">
+										<label for="flanges">
+											Brides											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="heat_exchangers" name="critere_etape1[]" value="heat exchangers">
+										<label for="heat_exchangers">
+											Échangeurs de chaleur											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="steam_generators" name="critere_etape1[]" value="steam generators">
+										<label for="steam_generators">
+											Générateur de vapeur											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="Valves" name="critere_etape1[]" value="Valves">
+										<label for="Valves">
+											Vannes											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="elbows" name="critere_etape1[]" value="elbows">
+										<label for="elbows">
+											Coudes											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="pipelines" name="critere_etape1[]" value="pipelines">
+										<label for="pipelines">
+											Pipelines											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="pipes" name="critere_etape1[]" value="pipes">
+										<label for="pipes">
+											Pipelines											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="tube" name="critere_etape1[]" value="tube">
+										<label for="tube">
+											Tube											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="plates" name="critere_etape1[]" value="plates">
+										<label for="plates">
+											Plaques											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="fin_tubes_Membranes" name="critere_etape1[]" value="fin tubes Membranes">
+										<label for="fin_tubes_Membranes">
+											Suppression des membranes											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="fittings" name="critere_etape1[]" value="fittings">
+										<label for="fittings">
+											Raccords											<span class="nombreResultats"></span>
+										</label>
+									</li>
+															</ul>
+						</div>
+						<div class="rechercheGuidee-boutons">
+							<button class="iconAfter etapeSuivante btn--orange--outline--small">Suivant<i class="icon-keyboard_arrow_right"></i></button>
+						</div>
+					</div>
+
+					<div class="rechercheGuidee-etape clearAfter">
+						<input type="hidden"  class="hiddenetape" name="etape2" value="">
+						<h3 class="titre3 color-gris-dark">Type d'usinage</h3>
+						<div class="rechercheGuidee-choix">
+							<ul>
+																	<li class="chargementajax">
+										<input type="checkbox" id="Conical_machining" name="critere_etape2[]" value="Conical machining">
+										<label for="Conical_machining">
+											Usinage conique											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="bevelling" name="critere_etape2[]" value="bevelling">
+										<label for="bevelling">
+											Chanfreinage											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="counterboring" name="critere_etape2[]" value="counterboring">
+										<label for="counterboring">
+											Délardage											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="lenghten_of_tubes" name="critere_etape2[]" value="lenghten of tubes">
+										<label for="lenghten_of_tubes">
+											Mise à longueur de tubes											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="squaring" name="critere_etape2[]" value="squaring">
+										<label for="squaring">
+											Dresser											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="squaring_and_bevelling" name="critere_etape2[]" value="squaring and bevelling">
+										<label for="squaring_and_bevelling">
+											Dresser et chanfreiner											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="bevelling_of_fin_tubes" name="critere_etape2[]" value="bevelling of fin tubes">
+										<label for="bevelling_of_fin_tubes">
+											Chanfreinage de tubes fins											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="cutting_and_bevelling" name="critere_etape2[]" value="cutting and bevelling">
+										<label for="cutting_and_bevelling">
+											Coupe et chanfreinage											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="cutting_severing" name="critere_etape2[]" value="cutting_severing">
+										<label for="cutting_severing">
+											Tronçonnage											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="Boring" name="critere_etape2[]" value="Boring">
+										<label for="Boring">
+											Aléser											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="Facing___grooving" name="critere_etape2[]" value="Facing + grooving">
+										<label for="Facing___grooving">
+											Usinage de gorge											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="Facing_and_boring" name="critere_etape2[]" value="Facing and boring">
+										<label for="Facing_and_boring">
+											Surfaçage et alésage											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="tube_excavating" name="critere_etape2[]" value="tube excavating">
+										<label for="tube_excavating">
+											Grugeage											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="Grinding" name="critere_etape2[]" value="Grinding">
+										<label for="Grinding">
+											Rectifier											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="Tapping" name="critere_etape2[]" value="Tapping">
+										<label for="Tapping">
+											Tarauder											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="dismantling" name="critere_etape2[]" value="dismantling">
+										<label for="dismantling">
+											Démantèlement											<span class="nombreResultats"></span>
+										</label>
+									</li>
+															</ul>
+						</div>
+						<div class="rechercheGuidee-boutons">
+							<button class="etapePrecedente btn--gris-dark--outline--small"><i class="icon-keyboard_arrow_left"></i>Précédent</button>
+							<button class="iconAfter etapeSuivante btn--orange--outline--small">Suivant<i class="icon-keyboard_arrow_right"></i></button>
+						</div>
+					</div>
+
+					<div class="rechercheGuidee-etape clearAfter">
+						<input type="hidden"  class="hiddenetape" name="etape3" value="">
+						<h3 class="titre3 color-gris-dark">Diamètre des tubes ?</h3>
+						<div class="rechercheGuidee-choix">
+							<ul>
+								<li class="range">
+									<label id="label_diametre_minimum">Diamètre minimum</label>
+									<label id="label_diametre_maximum">Diamètre maximum</label>
+									<input type="text" class="fakerange" id="diametre" value="" />
+									<input type="hidden" name="diametre_minimum" id="hidden_diametre_minimum" value="">
+									<input type="hidden" name="diametre_maximum" id="hidden_diametre_maximum" value="">
+								</li>
+							</ul>
+						</div>
+						<h3 class="titre3 color-gris-dark">Epaisseur des tubes ?</h3>
+						<div class="rechercheGuidee-choix">
+							<ul>
+								<li class="range">
+									<label for="epaisseur" id="label_epaisseur_minimum">Epaisseur minimum</label>
+									<label for="epaisseur" id="label_epaisseur_maximum">Epaisseur maximum</label>
+									<!-- <input type="range" id="epaisseur" min="0" max="500" name="epaisseur" data-value="250" value="250"> -->
+									<input type="text" class="fakerange" id="epaisseur" value="" />
+									<input type="hidden" name="epaisseur" id="hidden_epaisseur" value="">
+								</li>
+							</ul>
+						</div>
+						<div class="rechercheGuidee-boutons">
+							<button class="etapePrecedente btn--gris-dark--outline--small"><i class="icon-keyboard_arrow_left"></i>Précédent</button>
+							<button class="iconAfter etapeSuivante btn--orange--outline--small">Suivant<i class="icon-keyboard_arrow_right"></i></button>
+						</div>
+					</div>
+
+					<div class="rechercheGuidee-etape clearAfter">
+						<input type="hidden"  class="hiddenetape" name="etape4" value="">
+						<h3 class="titre3 color-gris-dark">Quelle(s) motorisation(s) souhaitez-vous utilisez ?</h3>
+						<div class="rechercheGuidee-choix">
+							<ul>
+																	<li class="chargementajax">
+										<input type="checkbox" id="electric" name="critere_etape4[]" value="electric">
+										<label for="electric">
+											Électrique											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="pneumatic" name="critere_etape4[]" value="pneumatic">
+										<label for="pneumatic">
+											Pneumatique											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="hydraulic" name="critere_etape4[]" value="hydraulic">
+										<label for="hydraulic">
+											Hydraulique											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="Low_and_High_Pressure" name="critere_etape4[]" value="Low and High Pressure">
+										<label for="Low_and_High_Pressure">
+											Basse et haute pression											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="cordless_drive" name="critere_etape4[]" value="cordless drive">
+										<label for="cordless_drive">
+											Motorisation sans fil											<span class="nombreResultats"></span>
+										</label>
+									</li>
+															</ul>
+						</div>
+						<div class="rechercheGuidee-boutons">
+							<button class="etapePrecedente btn--gris-dark--outline--small"><i class="icon-keyboard_arrow_left"></i>Précédent</button>
+							<button class="iconAfter etapeSuivante btn--orange--outline--small">Suivant<i class="icon-keyboard_arrow_right"></i></button>
+						</div>
+					</div>
+
+					<div class="rechercheGuidee-etape clearAfter">
+						<input type="hidden"  class="hiddenetape" name="etape5" value="">
+						<h3 class="titre3 color-gris-dark">Diamètre des brides ?</h3>
+						<div class="rechercheGuidee-choix">
+							<ul>
+								<li class="range">
+									<!-- <label for="diametre_interne">Diamètre extérieur</label>
+									<input type="range" id="diametre_interne" min="0" max="500" name="diametre_interne" data-value="250" value="250"> -->
+									<label id="label_diametre_exterieur_minimum">Diamètre extérieur minimum</label>
+									<label id="label_diametre_exterieur_maximum">Diamètre extérieur maximum</label>
+									<input type="text" class="fakerange" id="diametre_exterieur" value="" />
+									<input type="hidden" name="diametre_exterieur_minimum" id="hidden_diametre_exterieur_minimum" value="">
+									<input type="hidden" name="diametre_exterieur_maximum" id="hidden_diametre_exterieur_maximum" value="">
+								</li>
+							</ul>
+							<ul>
+								<li class="range">
+									<!-- <label for="diametre_externe">Diamètre intérieur</label>
+									<input type="range" id="diametre_externe" min="0" max="500" name="diametre_externe" data-value="250" value="250"> -->
+									<label id="label_diametre_interieur_minimum">Diamètre intérieur minimum</label>
+									<label id="label_diametre_interieur_maximum">Diamètre intérieur maximum</label>
+									<input type="text" class="fakerange" id="diametre_interieur" value="" />
+									<input type="hidden" name="diametre_interieur_minimum" id="hidden_diametre_interieur_minimum" value="">
+									<input type="hidden" name="diametre_interieur_maximum" id="hidden_diametre_interieur_maximum" value="">
+								</li>
+							</ul>
+						</div>
+						<div class="rechercheGuidee-boutons">
+							<button class="etapePrecedente btn--gris-dark--outline--small"><i class="icon-keyboard_arrow_left"></i>Précédent</button>
+							<button class="iconAfter etapeSuivante btn--orange--outline--small">Suivant<i class="icon-keyboard_arrow_right"></i></button>
+						</div>
+					</div>
+
+					<div class="rechercheGuidee-etape clearAfter">
+						<input type="hidden"  class="hiddenetape" name="etape6" value="">
+						<h3 class="titre3 color-gris-dark">Profondeur d'alésage?</h3>
+						<div class="rechercheGuidee-choix">
+							<ul>
+								<li class="range">
+									<label for="profondeur">Epaisseur</label>
+									<input type="text" id="profondeur">
+									<input type="hidden" name="profondeur" id="hidden_profondeur" value="">
+								</li>
+							</ul>
+						</div>
+						<div class="rechercheGuidee-boutons">
+							<button class="etapePrecedente btn--gris-dark--outline--small"><i class="icon-keyboard_arrow_left"></i>Précédent</button>
+							<button class="iconAfter etapeSuivante btn--orange--outline--small">Suivant<i class="icon-keyboard_arrow_right"></i></button>
+						</div>
+					</div>
+
+					<div class="rechercheGuidee-etape clearAfter">
+						<input type="hidden"  class="hiddenetape" name="etape7" value="">
+						<h3 class="titre3 color-gris-dark">Environnement?</h3>
+						<div class="rechercheGuidee-choix">
+							<ul>
+																	<li class="chargementajax">
+										<input type="checkbox" id="electric" name="critere_etape7[]" value="electric">
+										<label for="electric">
+											Électrique											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="pneumatic" name="critere_etape7[]" value="pneumatic">
+										<label for="pneumatic">
+											Pneumatique											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="hydraulic" name="critere_etape7[]" value="hydraulic">
+										<label for="hydraulic">
+											Hydraulique											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="Low_and_High_Pressure" name="critere_etape7[]" value="Low and High Pressure">
+										<label for="Low_and_High_Pressure">
+											Basse et haute pression											<span class="nombreResultats"></span>
+										</label>
+									</li>
+																	<li class="chargementajax">
+										<input type="checkbox" id="cordless_drive" name="critere_etape7[]" value="cordless drive">
+										<label for="cordless_drive">
+											Motorisation sans fil											<span class="nombreResultats"></span>
+										</label>
+									</li>
+															</ul>
+						</div>
+						<div class="rechercheGuidee-boutons">
+							<button class="etapePrecedente btn--gris-dark--outline--small"><i class="icon-keyboard_arrow_left"></i>Précédent</button>
+							<button class="iconAfter etapeSuivante btn--orange--outline--small">Suivant<i class="icon-keyboard_arrow_right"></i></button>
+						</div>
+					</div>
+
+
+				<!-- fin du conteneur -->
+				</div>
+
+
+				<!-- Footer de la recherche -->
+				<footer class="rechercheGuidee-footer">
+
+					<!-- Bouton d'envoi de la recherche -->
+					<input type="hidden" name="id_produits" id="hidden_refs" value="">
+					<button
+						id="envoiRechercheGuidee"
+						class="afficheResultats btn--outline--bleu"
+						type="submit"
+						data-nombre-references="Aucune référence trouvée">
+						<i class="icon-check"></i>
+						Voir les produits					</button>
+
+				</footer>
+
+			</form><!-- /interne -->
+		</div> <!-- /wrap -->
+	</div> <!-- /scroll -->
+</div>	<!-- BARRE ACCES RAPIDES -->
+
+<aside class="accessBar">
+    <ul class="accessBar-liste">
+        <li class="accessBar-item separator-after hide-medscreen" data-tip="Contact">
+            <a href="http://www.protem.fr/reseau-et-contact/contact" class="bto--small--outline--blanc" title="Contact"><i class="icon-mail_outline"></i></a>
+        </li>
+        <!-- bouton panier -->
+        <li id="btPanierPanel" class="accessBar-item separator-after hide-medscreen" data-tip="Votre panier">
+            <a href="https://www.protem.fr/panier" class="bto--small--outline--blanc" title="Panier">
+                                <i class="icon-shopping_cart"></i>
+            </a>
+        </li>
+        <li class="accessBar-item" data-tip="Trouver un produit">
+            <button class="bto--small--outline--blanc" title="Trouver un produit" data-open-popup="recherche-reference"><i class="icon-keyboard"></i></button>
+        </li>
+        <li class="accessBar-item" data-tip="Recherche guidée">
+            <button class="bto--small--outline--blanc openRechercheGuidee" title="Recherche guidée"><i class="icon-device_hub"></i></button>
+        </li>
+        <li class="accessBar-item" data-tip="Rechercher sur ce site">
+            <button class="search-trigger bto--small--outline--blanc" data-open-popup="recherche-fulltext">
+                <i class="icon-search"></i>
+            </button>
+        </li>
+        <li class="accessBar-item separator-before" data-tip="Espace clients">
+            <a href="http://portal.protem.fr/index.php" class="bto--small--outline--blanc" title="Espace clients"><i class="icon-account_circle"></i></a>
+        </li>
+    </ul>
+</aside>
+
+
+
+
+
+
+
+<!--
+    POPUPS
+-->
+
+<!-- POPUP RECHERCHE FULL TEXT -->
+
+<div class="pop" data-popup="recherche-fulltext">
+    <div class="pop-interne">
+
+        <span class="pop-close"></span>
+
+        <div class="pop-scroll">
+
+            <header class="pop-header">
+                <span class="titre3 color-bleu">Rechercher sur ce site</span>
+            </header>
+
+            <section class="pop-content">
+            	<form method="get" name="recherche" action="https://www.protem.fr/annexe/recherche">
+                    <input type="hidden" name="action" value="recherche">
+                    <input type="text" name="search" placeholder="Mots clés, articles ...">
+                    <button class="bto--big--outline--bleu" type="submit"><i class="icon-check"></i></button>
+                </form>
+            </section>
+
+        </div>
+    </div>
+</div>
+
+
+<!-- POPUP RECHERCHE REFERENCE -->
+
+<div class="pop" data-popup="recherche-reference">
+    <div class="pop-interne">
+
+        <span class="pop-close"></span>
+
+        <div class="pop-scroll">
+
+            <header class="pop-header">
+                <span class="titre3 color-orange">Trouver un produit</span>
+            </header>
+
+            <section class="pop-content">
+                <form>
+                    <div class="typeahead-container">
+                        <div class="typeahead-field">
+                            <span class="typeahead-query">
+                                <input name="recherche-reference" id="recherche-reference" placeholder="Saisissez une référence" autocomplete="off" type="text">
+                            </span>
+<!--                             <span class="typeahead-button">
+                                <button type="submit">
+                                    <i class="typeahead-search-icon"></i>
+                                </button>
+                            </span> -->
+                        </div>
+                    </div>
+                </form>
+            </section>
+
+        </div>
+    </div>
+</div>
+	<div class="global ">
+
+		<!-- ENTETE -->
+        
+    
+        <div class="bandeau">
+
+            <div class="bandeau-slideshow">
+                <ul class="bandeau-slides">
+                                            <li class="bandeau-slide">
+                            <div class="bandeau-content" style="background-image: url('https://www.protem.fr/upload/miniatures/997/1500/leader-mondial-de-solutions-d-usinage.png');">
+
+                                <div class="bandeau-texte">
+                                    <div class="bandeau-titre">
+                                                                                    <h1 class="titre1">Leader mondial de solutions d'usinage</h1>
+                                        
+                                                                                    <span class="sousTitre">Chanfreinage - Dressage - Coupe Orbitale - Délardage - Surfaçage - Alésage</span>
+                                                                            </div>
+
+                                                                    </div>
+
+                            </div>
+
+                        </li>
+                                            <li class="bandeau-slide">
+                            <div class="bandeau-content" style="background-image: url('https://www.protem.fr/upload/miniatures/1003/1500/leader-mondial-de-solutions-d-usinage.jpeg');">
+
+                                <div class="bandeau-texte">
+                                    <div class="bandeau-titre">
+                                                                                    <h1 class="titre1">Leader mondial de solutions d'usinage</h1>
+                                        
+                                                                                    <span class="sousTitre">Chanfreinage - Dressage - Coupe Orbitale - Délardage - Surfaçage - Alésage</span>
+                                                                            </div>
+
+                                                                    </div>
+
+                            </div>
+
+                        </li>
+                    
+                </ul>
+            </div>
+
+            <div class="invitScroll">
+                <span>Voir plus</span>
+                <i class="icon-mouse"></i>
+            </div>
+
+        </div>
+
+    
+		
+<!-- HEADER -->
+<header class="header">
+	<div class="centrage--large">
+
+		<a href="https://www.protem.fr/" class="header-logo"><img src="https://www.protem.fr/frontoffice/ressources_protem/img/logo-head.png" alt="logo"></a>
+
+		<div class="header-end">
+
+			<div class="menu-trigger">
+	<span class="menu-trigger-bar"></span>
+	<span class="menu-trigger-bar"></span>
+	<span class="menu-trigger-bar"></span>
+</div>
+
+<nav class="menu">
+
+
+	<a class="menu-logo" href="https://www.protem.fr/">
+		<img src="https://www.protem.fr/frontoffice/ressources_protem/img/logo-head.png" alt="logo">
+	</a>
+
+	<ul><li class="active"><a href="https://www.protem.fr/le-groupe/a-propos/presentation" title="Le groupe, fabricant européen de machines d'usinage">Le groupe</a>
+<ul>
+<li ><a href="https://www.protem.fr/le-groupe/a-propos/presentation" title="À propos - Expertise d'usinage de tubes et pipelines">&Agrave; propos</a>
+<ul>
+<li ><a href="https://www.protem.fr/le-groupe/a-propos/presentation" title="Présentation - Leader mondial de solutions d'usinage">Pr&eacute;sentation</a>
+</li>
+<li ><a href="https://www.protem.fr/le-groupe/a-propos/historique" title="Historique, 40 ans d'expérience dans le monde entier">Historique</a>
+</li>
+<li class="active"><a href="https://www.protem.fr/le-groupe/a-propos/charte-environnement" title="Charte Environnement, vers une démarche éco-citoyenne">Charte Environnement</a>
+</li>
+<li ><a href="https://www.protem.fr/le-groupe/a-propos/organigramme" title="Organigramme, expertise technique et savoir-faire">Organigramme</a>
+</li>
+<li ><a href="https://www.protem.fr/le-groupe/a-propos/mentions-legales" title="">Mentions L&eacute;gales</a>
+</li>
+</ul>
+</li>
+<li ><a href="https://www.protem.fr/le-groupe/marche-et-expertise/domaines-d-activites" title="Marché et expertise, pour une préparation parfaite à la soudure">March&eacute; et expertise</a>
+<ul>
+<li ><a href="https://www.protem.fr/le-groupe/marche-et-expertise/domaines-d-activites" title="Les domaines d'activité du groupe PROTEM.">Domaines d'activit&eacute;</a>
+</li>
+<li ><a href="https://www.protem.fr/le-groupe/marche-et-expertise/nos-clients" title="Nos clients nous accordent une confiance pérenne">Nos clients</a>
+</li>
+<li ><a href="https://www.protem.fr/le-groupe/marche-et-expertise/temoignages" title="Témoignages, leur satisfaction est notre fierté">T&eacute;moignages</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="openProduits"><a href="https://www.protem.fr/produits-et-applications" title="Produits, une gamme complète d'équipements d'usinage">Produits</a>
+<ul>
+<li class="medscreen application"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application" title="Une large gamme de produits pour chaque application">Par type d'application</a>
+<ul>
+<li class="Coupe-orbitale"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/tubes-inox-fin" title="">TUBES INOX FINS</a>
+</li>
+<li class="usinage-tubes-et-pipelines"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/usinage-de-tubes-et-pipelines" title="Machines portables d'usinage de tubes et pipelines">Usinage de tubes et pipelines</a>
+</li>
+<li class="SOUDAGE"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/soudure" title="Soudage">Soudage</a>
+</li>
+<li class="usinage-de-brides-et-vannes"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/usinage-de-brides-et-vannes" title="Machines portables d'usinage de brides et vannes">Usinage de brides et vannes</a>
+</li>
+<li class="outils"><a href="https://www.protem.fr/produits-et-applications/par-type-d-application/outils-et-accessoires" title="Outils et accessoires pour l'usinage de tubes et pipelines">Outils et accessoires</a>
+</li>
+</ul>
+</li>
+<li class="medscreen application"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie" title="Une large gamme de produits pour chaque application">Par type d'industrie</a>
+<ul>
+<li class="industrie-nucleaire"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/nucleaire" title="Nucléaire, usinage et soudage en milieux contraignants">Nucl&eacute;aire</a>
+</li>
+<li class="industrie-fossiles"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/fossiles" title="Fossiles, assurer une intervention rapide et efficace">Fossiles</a></li><li class="industrie-hydroelectrique"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/hydroelectriques" title="Hydroélectriques, usinage pour maintenance et construction">Hydro&eacute;lectriques</a></li><li class="energies-renouvelables"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/energies-renouvelables" title="Énergies renouvelables, usiner en espace réduit efficacement">&Eacute;nergies renouvelables</a></li><li class="petrole-gaz"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/petrole-et-gaz" title="Pétrole & gaz, usinage de joints, brides et vannes">P&eacute;trole &amp; gaz</a></li><li class="industrie-defense"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/defense" title="Défense, usiner avec précision et répétabilité tous matériaux">D&eacute;fense</a></li><li class="industrie-chimie"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/chimie" title="Chimie, assurer un usinage à froid sans étincelle ni ZAT">Chimie</a></li><li class="industrie-semi-conducteur"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/semi-conducteur" title="Semi-conducteur, machines orbitales de coupe et chanfreinage">Semi-conducteur</a></li><li class="industrie-pharmacie"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/pharmacie" title="Pharmacie, assurer un usinage sans contamination ni bavure">Pharmacie</a></li><li class="industrie-agroalimentaire"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/agroalimentaire" title="Agroalimentaire, assurer un usinage sans contamination">Agroalimentaire</a></li><li class="industrie-biotechnologies"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/biotechnologies" title="Biotechnologies, assurer un usinage sans contamination">Biotechnologies</a></li><li class="industrie-construction-navale"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/construction-navale" title="Construction navale, Réparation sur site de pièces critiques">Construction navale</a></li><li class="industrie-aerospace"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/aerospatiale-et-aeronautique" title="Aérospatiale & aéronautique, usinage en accès difficile">A&eacute;rospatiale &amp; a&eacute;ronautique</a></li><li class="industrie-tubes"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/tubes-brides-vannes-coudes-et-toles" title="Tubes, brides, vannes, coudes & tôles, toutes dimensions">Tubes, brides, vannes, coudes &amp; t&ocirc;les</a></li><li class="industrie-chaudiere"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/chaudieres" title="Chaudières, usinage auto et semi auto en grande série">Chaudi&egrave;res</a></li><li class="industrie-echangeurs-de-chaleur"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/echangeurs-de-chaleur" title="Échangeurs de chaleur, usinage avec grande répétabilité">&Eacute;changeurs de chaleur</a></li><li class="industrie-tuyauterie"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/tuyauterie" title="Tuyauterie, préparation à toute procédure de soudage">Tuyauterie</a></li><li class="industrie-cryogenie"><a href="https://www.protem.fr/produits-et-applications/partypedindustrie/cryogenie" title="Cryogénie, maintenance de lignes de tuyauteries à de basses  températures">Cryog&eacute;nie</a></li></ul>
+</li>
+<li class="medscreen"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits" title="Gamme de produits, pour l'usinage de tubes et pipelines">Par gamme de produits</a>
+<ul>
+<li class="Coupe-orbitale"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-coupe-orbitale" title="">Gamme coupe orbitale</a>
+</li>
+<li class="us-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-us" title="">Gamme US</a>
+</li>
+<li class="tt-ng-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-tt" title="Gamme TT-NG - Coupe et chanfreinage orbital de tubes">Gamme TT-NG</a>
+</li>
+<li class="tt-lw-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-tt-lw" title="Gamme TT-LW - Coupe et chanfreinage orbital de tubes">Gamme TT-LW</a>
+</li>
+<li class="tts-ng-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-tts-ng" title="Gamme TTS-NG  - Coupe et chanfreinage orbital de tubes">Gamme TTS-NG</a>
+</li>
+<li class="tts-rd-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-tts-rd" title="Gamme TTS-RD - Machine de coupe et de chanfreinage de tubes">Gamme TTS-RD</a>
+</li>
+<li class="pfm-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-pfm" title="Gamme PFM - Machines à chanfreiner à grande vitesse">Gamme PFM</a>
+</li>
+<li class="us-600r-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/us600r" title="Gamme US600R - Usinage de tubes de très fortes épaisseurs">Gamme US600R</a>
+</li>
+<li class="ohsb-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-ohsb" title="Gamme OHSB - Équipements pour réaliser le dressage de tubes">Gamme OHSB</a>
+</li>
+<li class="se-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-se" title="Gamme SE - Machines à dresser les tubes, raccords, coudes…">Gamme SE</a>
+</li>
+<li class="sl-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-sl" title="Gamme SL - Dressage de tubes, raccords et T en acier inoxydable">Gamme SL</a>
+</li>
+<li class="se-ng-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/se-ng-series" title="Gamme SE-NG - Machines portables d'usinage de tubes">Gamme SE-NG</a>
+</li>
+<li class="bmfm-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-bmfm" title="Gamme BMFM - Machines à clampage concentrique pour la préparation au soudage">Gamme BMFM</a>
+</li>
+<li class="gr-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-gr" title="Gamme GR - Équipements d'usinage pour tubes et parois de panneaux">Gamme GR</a>
+</li>
+<li class="mf-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-mf" title="Gamme MF - Machines transportables à couper et à chanfreiner les tubes">Gamme MF</a>
+</li>
+<li class="tno-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-tno" title="Gamme TNO - Machines à couper et à chanfreiner grande capacité">Gamme TNO</a>
+</li>
+<li class="bb-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-bb" title="Gamme BB - Chanfreinage de tubes à très grande vitesse">Gamme BB</a>
+</li>
+<li class="cta-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-cta" title="Gamme CTA - Machines à couper et à chanfreiner automatiques">Gamme CTA</a>
+</li>
+<li class="ocm-series"><a href="https://www.protem.fr/produits-et-applications/par-gamme-de-produits/gamme-ocm" title="Gamme OCM">Gamme OCM</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="industrie-cryogenie"><a href="https://www.protem.fr/services-et-support/services/formations" title="Services & supports, une équipe d'experts dédiés">Services &amp; supports</a>
+<ul>
+<li ><a href="https://www.protem.fr/services-et-support/services/formations" title="Services, vous apporter la technologie et le savoir-faire">Services</a>
+<ul>
+<li ><a href="https://www.protem.fr/services-et-support/services/formations" title="Formations, transmettre les usages et le savoir-faire">Formations</a>
+</li>
+<li ><a href="https://www.protem.fr/services-et-support/services/mise-en-service" title="Mises en service, vous accompagner et vous former">Mises en service</a>
+</li>
+<li ><a href="https://www.protem.fr/services-et-support/services/location" title="Locations, s'adapter à votre projet">Locations</a>
+</li>
+<li ><a href="https://www.protem.fr/services-et-support/services/usinage-sur-site" title="Usinage sur site, rapidité, qualité et haute précision">Usinage sur site</a>
+</li>
+<li ><a href="https://www.protem.fr/services-et-support/services/maintenance-et-reparation" title="Maintenance & réparation, qualité et rapidité d'exécution">Maintenance et r&eacute;paration</a>
+</li>
+</ul>
+</li>
+<li ><a href="https://www.protem.fr/services-et-support/support/webinaires" title="Supports, vous donner les clefs d'un usinage parfait">Supports</a>
+<ul>
+<li ><a href="https://www.protem.fr/services-et-support/support/webinaires" title="Webinaires, profitez de formations où que vous soyez">Webinaires</a>
+</li>
+<li ><a href="https://www.protem.fr/services-et-support/support/documents-techniques" title="Documents techniques, les informations clefs">Documents techniques</a>
+</li>
+<li ><a href="https://www.protem.fr/services-et-support/support/demos-produits" title="Démos produits, la qualité parle d'elle-même">D&eacute;mos produits</a>
+</li>
+<li ><a href="https://www.protem.fr/services-et-support/support/assistance-technique" title="Assistance technique, à votre service où que vous soyez">Assistance technique</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li ><a href="https://www.protem.fr/actualites" title="Actualités, nos projets et nos évènements">Actualit&eacute;s</a>
+<ul>
+<li ><a href="https://www.protem.fr/actualites/salons" title="Salons, venez nous rencontrer">Salons</a>
+</li>
+<li ><a href="https://www.protem.fr/actualites/actualites" title="">Actualit&eacute;s</a>
+</li>
+<li ><a href="https://www.protem.fr/actualites/newsletters" title="Newsletters, les dernières nouvelles du groupe">Newsletters</a>
+</li>
+<li ><a href="https://www.protem.fr/actualites/publications-presse" title="Publications presse, les articles techniques et d'actualité">Publications Presse</a>
+</li>
+</ul>
+</li>
+<li ><a href="https://www.protem.fr/reseau-et-contact/reseaux" title="Réseaux, Protem partout dans le monde">R&eacute;seau &amp; contact</a>
+<ul>
+<li ><a href="https://www.protem.fr/reseau-et-contact/reseaux" title="">R&eacute;seaux</a>
+</li>
+<li ><a href="https://www.protem.fr/reseau-et-contact/contact" title="Contact, notre équipe à votre écoute">Contact</a>
+</li>
+<li class="Partenaires"><a href="https://www.protem.fr/reseau-et-contact/nos-partenaires" title="">Nos Partenaires</a>
+<ul>
+<li class="Partenaires"><a href="https://www.protem.fr/reseau-et-contact/nos-partenaires/nos-partenaires" title="Partenaires">Nos Partenaires</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li ><a href="https://www.protem.fr/travailler-avec-nous" title="Travailler avec nous, rejoignez une équipe d'exception">CARRI&Egrave;RES</a>
+<ul>
+<li ><a href="https://www.protem.fr/travailler-avec-nous/devenir-revendeur" title="Devenir revendeur, proposez un large choix de machines d'usinage">Distributeurs</a>
+</li>
+<li ><a href="https://www.protem.fr/travailler-avec-nous/offres-d-emploi" title="Offres d'emploi, rejoignez les professionnels de l´usinage de tubes">Opportunit&eacute;s de postes</a>
+</li>
+</ul>
+</li>
+<li class="smallscreen"><a href="https://www.protem.fr/panier" title="">Panier</a>
+</li>
+<li class="medscreen"><a href="http://portal.protem.fr" target="_blank" title="">Acc&egrave;s distributeurs et revendeurs</a>
+</li>
+</ul>
+
+</nav>
+			
+				<!-- NOUVEAU SELECTEUR DE LANGUES -->
+				<div class="header-lang">
+					<ul class="header-lang-list">
+											
+																		<li>
+								<a href="https://www.protemusa.com/">
+									<img src="https://www.protem.fr/frontoffice/ressources_protem/img/drapeaux/Usa.png">
+									 English USA								</a>
+							</li>												
+						
+																		<li>
+								<a href="https://www.protem-gmbh.de/">
+									<img src="https://www.protem.fr/frontoffice/ressources_protem/img/drapeaux/Germany.png">
+									Deutsch								</a>
+							</li>												
+						
+																		<li>
+								<a href="https://www.protem.es/">
+									<img src="https://www.protem.fr/frontoffice/ressources_protem/img/drapeaux/Spain.png">
+									Español								</a>
+							</li>												
+						
+																		<li>
+								<a href="https://www.protem.fr/ru/">
+									<img src="https://www.protem.fr/frontoffice/ressources_protem/img/drapeaux/Russia.png">
+									Pусский								</a>
+							</li>												
+						
+																		<li>
+								<a href="https://www.protem.fr/cn/">
+									<img src="https://www.protem.fr/frontoffice/ressources_protem/img/drapeaux/China.png">
+									中国								</a>
+							</li>												
+						
+																		<li>
+								<a href="https://www.protem.fr/pl/">
+									<img src="https://www.protem.fr/frontoffice/ressources_protem/img/drapeaux/Poland.png">
+									Polski								</a>
+							</li>												
+						
+										
+					</ul>
+					<div class="header-lang-current"><img src=https://www.protem.fr/frontoffice/ressources_protem/img/drapeaux/France.png></div>	
+				</div>
+
+			
+		</div>
+
+	</div>
+</header>
+<!-- JS -->
+<script type="text/javascript" src="https://www.protem.fr/frontoffice/vues_protem/cms/cms.js"></script>
+<!-- <script type="text/javascript" src="https://www.protem.fr/frontoffice/ressources/scripts/slick.min.js"></script>
+ -->
+
+<main class="contenuPage">
+	<div class="centrage">
+
+		<!-- Titre page -->
+		<div class="titrePage">
+	<h1 class="titre1">
+		<span>Charte Environnement</span>
+			</h1>
+</div>
+
+		<!-- Ariane -->
+		<div class="ariane-container">
+	<ul data-before='Vous êtes ici : ' class="ariane"><li><a href="https://www.protem.fr/"><span>Accueil</span></a></li><li><a href="https://www.protem.fr/le-groupe/a-propos/presentation">Le groupe</a></li><li><a href="https://www.protem.fr/le-groupe/a-propos/presentation">À propos</a></li><li class="active"><span>Charte Environnement</span></li></ul>	
+</div>
+
+	</div>
+
+	<div class="centrage cms">
+
+		<!-- Colonne Contenu -->
+		<div class="colContenu">
+			<div class="cms-row grid-2cols-sm1cols"><a href="https://www.protem.fr/upload/miniatures/290/1000/charte-environnement.jpeg" class="col colImg fancy"><figure><img src="https://www.protem.fr/upload/miniatures/290/500/charte-environnement.jpeg" alt="charte-environnement.jpg"></figure></a><div class="col"><p>PROTEM se considère comme tenue d’une obligation de très grande vigilance à l’égard des atteintes à l’environnement qui pourraient résulter de son activité. C’est pourquoi, depuis plus de 50 ans, PROTEM développe les moyens lui permettant de réduire l’impact de ses actions et de ses produits sur l’environnement.</p><p>Cette préoccupation nous a conduit à adopter une politique de protection verte consistant en la mise en oeuvre de mesures qui concernent toutes nos activités, tant commerciales qu’industrielles. La conception de nos produits, leur processus de fabrication ainsi que nos interventions sur site ont été élaborés de telle sorte que leur impact sur l’environnement est réduit au maximum.</p><p>Ainsi, nous excluons de notre gamme de produits toute matière présentant un risque avéré pour l’environnement, nous privilégions également les fournitures bio dégradables ainsi que les matériaux recyclables.</p><p><br></p></div></div><div class="cms-row grid-2cols-sm1cols"><div class="col"><p>Nous mettons un point d’honneur à ne rejeter aucun déchet dans l’environnement et à limiter au possible l’emploi superflu de plastique et de carton pour nos emballages.</p><p>De plus, PROTEM pratique le tri sélectif intégral et valorise la récupération des ressources utilisées, et ce depuis plus de 50 ans.</p><p>PROTEM a inscrit la protection de l’environnement au cœur de son projet d’Entreprise. Ce pourquoi, chaque année, nos équipes établissent un bilan de ce qui a été accompli au cours de l’année passée afin de progresser dans notre démarche éco-citoyenne.</p></div><a href="https://www.protem.fr/upload/miniatures/291/1000/charte-environnement-1.jpeg" class="col colImg fancy"><figure><img src="https://www.protem.fr/upload/miniatures/291/500/charte-environnement-1.jpeg" alt="charte-environnement-1.jpg"></figure></a></div>		</div><!-- /colContenu -->
+
+	</div><!-- /grid -->
+
+</main><!-- /contenuPage -->		<!-- PIEDDEPAGE -->
+		<footer class="footer">
+	<div class="centrage">
+
+		<div class="grid-sm1cols">
+
+			<div class="footer-start col">
+				<a href="https://www.protem.fr/" class="footer-logo">
+					<img src="https://www.protem.fr/frontoffice/ressources_protem/img/logo-foot-protem.png" alt="Logo Protem">
+				</a>
+
+				<ul><li ><a href="https://www.protem.fr/annexe/recherche" title="">Annexe</a>
+<ul>
+<li ><a href="https://www.protem.fr/annexe/recherche" title="">Recherche</a>
+</li>
+<li ><a href="https://www.protem.fr/annexe/plan-du-site" title="Plan du site, pour trouver votre machine d'usinage facilement.">Plan du site</a>
+</li>
+<li ><a href="https://www.protem.fr/annexe/cgv" title="Conditions générales de ventes (CGV)">CGV</a>
+</li>
+<li ><a href="https://www.protem.fr/annexe/mentions-legales" title="Mentions légales">Mentions l&eacute;gales</a>
+</li>
+</ul>
+</li>
+</ul>
+				<div class="footer-certifs">
+					<img src="https://www.protem.fr/frontoffice/ressources_protem/img/pictos/certif-ce.png" alt="CE">
+					<img src="https://www.protem.fr/frontoffice/ressources_protem/img/pictos/certif-cefri.png" alt="CEFRI">
+					<img src="https://www.protem.fr/frontoffice/ressources_protem/img/pictos/certif-afaq.png" alt="AFAQ">
+				</div>
+			</div>
+
+			<div class="footer-center col">
+				<h3 class="titre3 color-noir">Contact</h3>
+				<p><strong>PROTEM SAS</strong></p>
+				<p>
+					<p>Z.I. Les Bosses, 26800 Etoile-sur-Rh&ocirc;ne | FRANCE<br />
+E-Mail: contact@protem.fr<br />
+<strong>TEL : +33 (0) 4 75 57 41 41<br />
+Fax : +33 (0) 4 75 57 41 49</strong></p>
+
+<p><strong>PROTEM COLMAR</strong><br />
+7 Rue Jacques Daguerre,&nbsp; 68000 COLMAR | FRANCE</p>				</p>
+				<p>
+					<strong>TEL : +33 (0) 3 69 85 05 78</strong><br>
+					<strong>Fax : +33 (0) 4 75 57 41 49</strong>
+				</p>
+
+									<a href="http://www.protem.fr/reseau-et-contact/contact" class="btn--small--outline--noir">Contactez-nous</a>
+							</div>
+
+			<div class="footer-end col">
+				<h3 class="titre3 color-noir">Newsletter</h3>
+				<p>
+					Inscrivez-vous à notre lettre d'information en renseignant votre adresse e-mail dans le champ ci-dessous pour être informé en temps réel de nos dernières nouveautés.				</p>
+				<form>
+					<input name="mailNewsletter" type="email" id="mailNewsletter" placeholder="Votre adresse e-mail">
+					<div class="captcha col">
+						<div class="grid-2col">
+							<div class="col captcha-phrase">
+								<label for="saisieCaptchaNews">Combien font deux plus deux ?</label>
+								<span class="captcha-aide">Vérifiez que vous n'êtes pas un robot</span>
+							</div>
+							<span class="col captcha-input">
+								<input type="text" placeholder="Saisissez la réponse ici" name="saisieCaptchaNews" id="saisieCaptchaNews" required>
+							</span>
+						</div>
+					</div>
+					<button id="btInscriptionNewsletter" class="bto--outline--noir"><i class="icon-check"></i></button>
+				</form>
+			</div>
+
+		</div>
+
+	</div>
+</footer>
+
+	</div> <!-- /global -->
+</body>
+</html>

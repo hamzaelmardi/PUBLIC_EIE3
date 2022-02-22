@@ -1,0 +1,28 @@
+
+.btn-primary{
+	background:#336c4e !important;
+	border-color: #336c4e !important;
+	}
+.wizard li.active span.round-tab {
+	background: #2196f3;
+	color: #fff;
+	border-color: #2196f3;
+}
+.wizard li.active span.round-tab i{
+	color: #5bc0de;
+}
+.wizard .nav-tabs > li.active > a i{
+	color: #2196f3;
+}
+.next-step{
+	background-color: #2196f3;
+	color: #fff;
+}
+.skip-btn{
+	background-color: #cec12d;
+}
+
+.flip-card-back a.btn.btn-primary {
+	background-color: #fff!important;
+	color: #2196f3 !important;
+}

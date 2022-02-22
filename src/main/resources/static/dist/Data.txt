@@ -1,0 +1,93 @@
+-- Insertion desregion a la base de donnees
+insert into region values(1,GETDATE(),NULL,'Tanger-Tétouan-Al Hoceïma',GETDATE())
+insert into region values(2,GETDATE(),NULL,'L''Oriental',GETDATE())
+insert into region values(3,GETDATE(),NULL,'Fès-Meknès',GETDATE())
+insert into region values(4,GETDATE(),NULL,'Rabat-Salé-Kénitra',GETDATE())
+insert into region values(5,GETDATE(),NULL,'Béni Mellal-Khénifra',GETDATE())
+insert into region values(6,GETDATE(),NULL,'Casablanca-Settat',GETDATE())
+insert into region values(7,GETDATE(),NULL,'Marrakech-Safi',GETDATE())
+insert into region values(8,GETDATE(),NULL,'Drâa-Tafilalet',GETDATE())
+insert into region values(9,GETDATE(),NULL,'Souss-Massa',GETDATE())
+insert into region values(10,GETDATE(),NULL,'Guelmim-Oued Noun',GETDATE())
+insert into region values(11,GETDATE(),NULL,'Laâyoune-Sakia El Hamra',GETDATE())
+insert into region values(12,GETDATE(),NULL,'Dakhla-Oued Ed-Dahab',GETDATE())
+
+-- insertion des societesde transport
+
+insert into societe_transport values(13,GETDATE(),NULL,9	,'AQUAFLORE PROTECT',GETDATE())
+insert into societe_transport values(14,GETDATE(),NULL,6	,'MME',GETDATE())
+insert into societe_transport values(15,GETDATE(),NULL,6	,'LOGIPRO',GETDATE())
+insert into societe_transport values(16,GETDATE(),NULL,1	,'SITA MAROC RECYCLING',GETDATE())
+insert into societe_transport values(17,GETDATE(),NULL,6	,'DACHSER',GETDATE())
+insert into societe_transport values(18,GETDATE(),NULL,4	,'SELSAFAA',GETDATE())
+insert into societe_transport values(19,GETDATE(),NULL,6	,'ECONORME',GETDATE())
+insert into societe_transport values(20,GETDATE(),NULL,1	,'ECORECYCLAGE',GETDATE())
+insert into societe_transport values(21,GETDATE(),NULL,6	,'POLLUCLEAN',GETDATE())
+insert into societe_transport values(22,GETDATE(),NULL,6	,'NITAN-',GETDATE())
+insert into societe_transport values(23,GETDATE(),NULL,6	,'VACUM-',GETDATE())
+insert into societe_transport values(24,GETDATE(),NULL,6	,'POMPAGE ET RAFFINAGE DU MAROC- -',GETDATE())
+insert into societe_transport values(25,GETDATE(),NULL,2	,'LUBO',GETDATE())
+insert into societe_transport values(26,GETDATE(),NULL,6	,'TRANSIT JALAL-',GETDATE())
+insert into societe_transport values(27,GETDATE(),NULL,9	,'MEGATRATEMENT',GETDATE())
+insert into societe_transport values(28,GETDATE(),NULL,6	,'SITA MAROC',GETDATE())
+insert into societe_transport values(29,GETDATE(),NULL,3	,'H OUSSAMA',GETDATE())
+insert into societe_transport values(30,GETDATE(),NULL,6	,'CGA SARL',GETDATE())
+insert into societe_transport values(31,GETDATE(),NULL,6	,'SOFAMAS',GETDATE())
+insert into societe_transport values(32,GETDATE(),NULL,6	,'COJOSEM',GETDATE())
+insert into societe_transport values(33,GETDATE(),NULL,10   ,'MARRU DECHETS',GETDATE())
+insert into societe_transport values(34,GETDATE(),NULL,6	,'Forca trans',GETDATE())
+insert into societe_transport values(35,GETDATE(),NULL,4	,'SNTL',GETDATE())
+insert into societe_transport values(36,GETDATE(),NULL,4	,'Derichebourg Maroc',GETDATE())
+insert into societe_transport values(37,GETDATE(),NULL,6	,'CHEMICAL CONSULTING',GETDATE())
+insert into societe_transport values(38,GETDATE(),NULL,6	,'La marocaine de collecte et d’entreposage des déchets',GETDATE())
+insert into societe_transport values(39,GETDATE(),NULL,1	,'Société Techni Polymers Shore.',GETDATE())
+insert into societe_transport values(40,GETDATE(),NULL,1	,'Refai Net Solution',GETDATE())
+insert into societe_transport values(41,GETDATE(),NULL,6	,'Lean collect',GETDATE())
+insert into societe_transport values(42,GETDATE(),NULL,9	,'SOTRADEMA',GETDATE())
+insert into societe_transport values(43,GETDATE(),NULL,9	,'Souss Draa Business',GETDATE())
+insert into societe_transport values(44,GETDATE(),NULL,6	,'Logic Transport',GETDATE())
+insert into societe_transport values(45,GETDATE(),NULL,6	,'ALMABAT.',GETDATE())
+insert into societe_transport values(46,GETDATE(),NULL,1	,'R.T.G Recyclage Trans Rita',GETDATE())
+insert into societe_transport values(47,GETDATE(),NULL,6	,'Redepa',GETDATE())
+insert into societe_transport values(48,GETDATE(),NULL,6	,'Artis Environnement Centre.',GETDATE())
+insert into societe_transport values(49,GETDATE(),NULL,6	,'Environnement Service Recyclage et Prestation',GETDATE())
+insert into societe_transport values(50,GETDATE(),NULL,6	,'Omega Benne',GETDATE())
+insert into societe_transport values(51,GETDATE(),NULL,4	,'Sotraforest',GETDATE())
+insert into societe_transport values(52,GETDATE(),NULL,6	,'Consortium Industriel commercial et maritime(CICM)',GETDATE())
+insert into societe_transport values(53,GETDATE(),NULL,6	,'Eden Food processing',GETDATE())
+insert into societe_transport values(54,GETDATE(),NULL,6	,'Farouk Trans SARL',GETDATE())
+insert into societe_transport values(55,GETDATE(),NULL,6	,'Kanban Entreprise',GETDATE())
+insert into societe_transport values(56,GETDATE(),NULL,6	,'COVED services',GETDATE())
+insert into societe_transport values(57,GETDATE(),NULL,6	,'Lydec',GETDATE())
+insert into societe_transport values(58,GETDATE(),NULL,4	,'Chimirec Maroc',GETDATE())
+insert into societe_transport values(59,GETDATE(),NULL,6	,'Mama Marine',GETDATE())
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
